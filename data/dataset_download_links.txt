@@ -1,0 +1,5 @@
+Please use the following links to download the dataset:
+
+Small dataset (~95 MB): https://storage.googleapis.com/met-cs-777-data/taxi-data-sorted-small.csv.bz2
+
+Large dataset (~9.2 GB): https://storage.googleapis.com/met-cs-777-data/taxi-data-sorted-large.csv.bz2
